@@ -86,12 +86,6 @@ cd SMS-Alarm-App
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
 
-## 📞 İletişim
-
-Sorularınız veya önerileriniz için:
-
-- GitHub Issues üzerinden bir konu açın
-- E-posta: [E-posta adresiniz]
 
 ---
 
