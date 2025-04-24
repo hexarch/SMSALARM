@@ -47,10 +47,9 @@ Bu uygulama, sunucu sistemlerinde bir hata oluştuğunda, sunucunun otomatik ola
 ## 📷 Ekran Görüntüleri
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/screenshot1.png" width="200" alt="Ana Ekran"/>
-  <img src="https://user-images.githubusercontent.com/placeholder/screenshot2.png" width="200" alt="Alarm Çalma Ekranı"/>
+  <img src="images/app.jpeg" width="200" alt="Ana Ekran"/>
+  <img src="images/app1.jpeg" width="200" alt="Alarm Çalma Ekranı"/>
 </p>
-
 ## ⚙️ Teknik Detaylar
 
 - Min SDK Version: 21 (Android 5.0 Lollipop)
