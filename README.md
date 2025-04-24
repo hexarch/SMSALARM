@@ -1,7 +1,7 @@
 # SMS Alarm Uygulaması
 
 <p align="center">
-  <img alt="SMS Alarm Logo" width="200"/>
+  SMS ALARM
 </p>
 
 ## 📱 Genel Bakış
