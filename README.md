@@ -1,7 +1,7 @@
 # SMS Alarm Uygulaması
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/sms-alarm-logo.png" alt="SMS Alarm Logo" width="200"/>
+  <img alt="SMS Alarm Logo" width="200"/>
 </p>
 
 ## 📱 Genel Bakış
